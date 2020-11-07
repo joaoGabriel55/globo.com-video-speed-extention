@@ -6,8 +6,18 @@ Extension for group Globo websites (g1, globoesporte.com and gshow) so that it i
 
 ## Browsers tested
 
-| [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Firefox | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Chrome | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/brave/brave_48x48.png" alt="Brave" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)</br>Brave |
-| --------- | --------- | --------- | --------- | --------- | --------- | --------- |
+Firefox
+
+[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" alt="Firefox" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/) 
+
+Chrome
+
+[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)
+
+Brave
+
+[<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/brave/brave_48x48.png" alt="Brave" width="24px" height="24px" />](http://godban.github.io/browsers-support-badges/)
+
 
 ## Screenshot
 ![Alt text](screens/screen1.jpg?raw=true "Optional Title")
