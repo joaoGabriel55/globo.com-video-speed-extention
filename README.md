@@ -20,5 +20,5 @@ Brave
 
 
 ## Screenshot
-![Alt text](screens/screen1.jpg?raw=true "Optional Title")
+![Alt text](screens/screen1.jpg?raw=true "Screen")
 
