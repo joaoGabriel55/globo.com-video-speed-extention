@@ -1,0 +1,24 @@
+{
+  "manifest_version": 2,
+  "name": "globo.com video speed",
+  "version": "0.1",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://globo.com/*",
+        "https://g1.globo.com/*",
+        "https://gshow.globo.com/*",
+        "https://globoesporte.globo.com/*"
+      ],
+      "css": [],
+      "js": [
+        "content.js"
+      ]
+    }
+  ],
+  "icons": {
+    "16": "img/icon16.png",
+    "48": "img/icon48.png",
+    "128": "img/icon128.png"
+  }
+}
