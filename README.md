@@ -2,7 +2,7 @@
 
 ## About
 
-Extension for group Globo websites (g1, globoesporte.com and gshow) so that it is possible to increase the speed of your videos. Adding a simple select HTML component with multiple speeds options.
+Extension for group [Globo](http://globo.com) websites ([g1](https://g1.globo.com/), [globoesporte.com](https://globoesporte.globo.com/) and [gshow](https://gshow.globo.com/)) so that it is possible to increase the speed of your videos. Adding a simple select HTML component with multiple speeds options.
 
 ## Browsers tested
 
